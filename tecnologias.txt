@@ -1,1 +1,3 @@
 Otras posibles tecnologias serían go para el backend, postgresql para la base de datos, angular para el frontend y notion para la gestion de reuniones.
+
+Actualmente se integrara un asistente IA.
