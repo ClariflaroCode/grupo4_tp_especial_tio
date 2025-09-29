@@ -8,3 +8,7 @@ Aca se especificaran todos los detalles sobre la visibilidad de la pagina.
 REVISADO
 
 pantallita
+
+
+
+pantallazo
