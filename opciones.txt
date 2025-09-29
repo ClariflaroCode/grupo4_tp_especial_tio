@@ -2,3 +2,4 @@ Opciones:
 Facturas: Carga todas las facturas que vende la panadería.
 Tortas: Carga todas las tortas que vende la panadería.
 Panificados: Carga todos los panificados que vende la panadería.
+REVISADO
