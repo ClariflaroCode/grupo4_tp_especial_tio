@@ -1,0 +1,1 @@
+Las licencias de estos motores varían desde libres y de código abierto, como MySQL y PostgreSQL, hasta comerciales o de pago, como Oracle y Microsoft SQL Server
