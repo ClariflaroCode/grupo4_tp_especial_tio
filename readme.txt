@@ -1,1 +1,1 @@
-Utilizaremos el lenguaje PHP para autenticacion, y una Base de Datos MySQL para guardar los usuarios.
+Utilizaremos el lenguaje PHP para autenticación, y una Base de Datos MySQL para guardar los usuarios.
